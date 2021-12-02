@@ -8,3 +8,7 @@ Figma design can be seen at https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gp
 - If an error occurs, run the "npm install" command again (may take 3 times) until no error occurs.
 - Run the command "npm start" to run the project on local server.
 - Run the command "npm build" to build a production version.
+
+## Tools
+- https://angrytools.com/gradient/
+- https://animista.net/play/basic
